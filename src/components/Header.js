@@ -28,8 +28,9 @@ function Header() {
                         src="/amazonLogo.png" 
                         width={150}
                         height={40}
-                        objectFit = "contain"
+                        objectfit = "contain"
                         className="cursor-pointer"
+                        alt=''
                     />
                 </div>
 

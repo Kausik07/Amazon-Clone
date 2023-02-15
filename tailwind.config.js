@@ -14,19 +14,18 @@ module.exports = {
         },
       },
       screens: {
-        '2xl': '1450px',
+        "2xl": "1450px",
       },
       height: {
         dd: "20px",
       },
       fontSize: {
-        ss: ['14px', '20px'],
-        xxl: ['20px', '30px']
-        
-      }
+        ss: ["14px", "20px"],
+        xxl: ["20px", "30px"],
+      },
     },
   },
-  
+
   variants: {
     extend: {},
   },
